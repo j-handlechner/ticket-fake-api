@@ -22,6 +22,13 @@ This repository hosts a small fake JSON API (powered by my-json-server) that ser
 
   https://my-json-server.typicode.com/j-handlechner/ticket-fake-api/tickets```?_page=2&_limit=10```
 
+### Images
+
+The ```img```attribute in the json refers to the __unsplash ID__ of the images. To build the urls, use this schema:
+
+- https://images.unsplash.com/photo-```<image id from json api>```
+- for example: https://images.unsplash.com/photo-1531436040007-7216019112d7
+
 ### JSON structure (db.json)
 
 The API serves a top-level object with a `tickets` array. Each ticket object contains the following fields:
@@ -53,4 +60,4 @@ Example ticket object:
 ### Notes
 
 - This is a read-only fake API (my-json-server) — POST/PUT/PATCH/DELETE won't persist changes.
-- Field names mirror `db.json` in this repo (see `db.json`). 
+- Field names mirror `db.json` in this repo (see `db.json`).
