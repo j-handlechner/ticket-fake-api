@@ -8,7 +8,7 @@
       "price": 59,
       "priceReduced": 49,
       "isFeatured": true,
-      "img": "ticket-1.png"
+      "img": "https://images.unsplash.com/photo-1565992441121-4367c2967103?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=927"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "shortDescription": "Afternoon ski access.",
       "detailledDescription": "A flexible ticket for spending the afternoon on the slopes. Valid from 12:00 until closing.",
       "price": 39,
-      "img": "ticket-2.png"
+      "img": "https://images.unsplash.com/photo-1642970047506-cfb9820f9457?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2070"
     },
     {
       "id": 3,
@@ -24,7 +24,7 @@
       "shortDescription": "Nighttime skiing under the lights.",
       "detailledDescription": "Experience the mountain in a unique way with illuminated evening slopes, available on selected nights.",
       "price": 29,
-      "img": "ticket-3.png"
+      "img": "https://images.unsplash.com/photo-1567798664060-0f9a2a5e31e9?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2066"
     },
     {
       "id": 4,
@@ -33,7 +33,7 @@
       "detailledDescription": "Unlimited access to all snowboard jumps, rails, and freestyle training zones.",
       "price": 25,
       "priceReduced": 20,
-      "img": "ticket-4.png"
+      "img": "https://images.unsplash.com/photo-1570641963303-92ce4845ed4c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=987"
     },
     {
       "id": 5,
@@ -42,7 +42,7 @@
       "detailledDescription": "Ski all weekend long with this two-day pass for all lifts and slopes.",
       "price": 99,
       "isFeatured": true,
-      "img": "ticket-5.png"
+      "img": "https://images.unsplash.com/photo-1667030448398-1d7efc1952c2?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2070"
     },
     {
       "id": 6,
@@ -51,7 +51,7 @@
       "detailledDescription": "Includes lift access for two adults and up to two children. Additional children can be added at reduced cost.",
       "price": 149,
       "priceReduced": 129,
-      "img": "ticket-6.png"
+      "img": "https://images.unsplash.com/photo-1755554817665-a098ba78b88d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1432"
     },
     {
       "id": 7,
@@ -59,7 +59,7 @@
       "shortDescription": "Access to beginner slopes only.",
       "detailledDescription": "Designed for first-time skiers and learners, giving access to easy slopes and training lifts.",
       "price": 19,
-      "img": "ticket-7.png"
+      "img": "https://images.unsplash.com/photo-1642970047506-cfb9820f9457?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2070"
     },
     {
       "id": 8,
@@ -67,7 +67,7 @@
       "shortDescription": "Access to all cross-country trails.",
       "detailledDescription": "Explore groomed cross-country skiing trails suited for both skating and classic technique.",
       "price": 14,
-      "img": "ticket-8.png"
+      "img": "https://images.unsplash.com/photo-1581369263827-1fb8c1b22458?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=927"
     },
     {
       "id": 9,
@@ -75,7 +75,7 @@
       "shortDescription": "Backcountry access permit.",
       "detailledDescription": "Required for ski touring activities within marked touring zones. Includes safety information.",
       "price": 12,
-      "img": "ticket-9.png"
+      "img": "https://images.unsplash.com/photo-1567798664060-0f9a2a5e31e9?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2066"
     },
     {
       "id": 10,
@@ -85,7 +85,7 @@
       "price": 599,
       "priceReduced": 499,
       "isFeatured": true,
-      "img": "ticket-10.png"
+      "img": "https://images.unsplash.com/photo-1708237768222-8966dcc533e7?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=927"
     },
     {
       "id": 11,
@@ -93,7 +93,7 @@
       "shortDescription": "5 days of skiing within a month.",
       "detailledDescription": "Ski any five days within the same month. Days do not have to be consecutive.",
       "price": 179,
-      "img": "ticket-11.png"
+      "img": "https://images.unsplash.com/photo-1667030448398-1d7efc1952c2?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2070"
     },
     {
       "id": 12,
@@ -101,7 +101,7 @@
       "shortDescription": "Access to the toboggan run.",
       "detailledDescription": "Unlimited rides on our popular sledding track. Helmets recommended.",
       "price": 15,
-      "img": "ticket-12.png"
+      "img": "https://images.unsplash.com/photo-1706983025766-157cd3e73d84?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=987"
     },
     {
       "id": 13,
@@ -109,7 +109,7 @@
       "shortDescription": "Ticket for marked snowshoe trails.",
       "detailledDescription": "Explore the beautiful snow-covered landscapes on curated snowshoe routes.",
       "price": 10,
-      "img": "ticket-13.png"
+      "img": "https://images.unsplash.com/photo-1735509903556-602b4d7d3ae5?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=986"
     },
     {
       "id": 14,
@@ -118,7 +118,7 @@
       "detailledDescription": "Enjoy a relaxing day on the ice with access to the entire rink area.",
       "price": 8,
       "priceReduced": 6,
-      "img": "ticket-14.png"
+      "img": "https://images.unsplash.com/photo-1714634562360-aefa771e6c92?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=986"
     },
     {
       "id": 15,
@@ -126,7 +126,7 @@
       "shortDescription": "Advanced freestyle area access.",
       "detailledDescription": "For experienced freestyle skiers and snowboarders. Includes access to large jumps and expert rails.",
       "price": 34,
-      "img": "ticket-15.png"
+      "img": "https://images.unsplash.com/photo-1735509903556-602b4d7d3ae5?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=986"
     },
     {
       "id": 16,
@@ -134,7 +134,7 @@
       "shortDescription": "Scenic lift ride ticket.",
       "detailledDescription": "Perfect for non-skiers: take the lift to the panoramic viewpoint and enjoy stunning alpine scenery.",
       "price": 12,
-      "img": "ticket-16.png"
+      "img": "https://images.unsplash.com/photo-1706983025766-157cd3e73d84?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=987"
     },
     {
       "id": 17,
@@ -142,7 +142,7 @@
       "shortDescription": "1-hour ski lesson included.",
       "detailledDescription": "Includes beginner area access plus a guided introduction lesson with a ski instructor.",
       "price": 49,
-      "img": "ticket-17.png"
+      "img": "https://images.unsplash.com/photo-1642970047506-cfb9820f9457?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2070"
     },
     {
       "id": 18,
@@ -151,7 +151,7 @@
       "detailledDescription": "Special pricing for large groups, including priority lift access.",
       "price": 39,
       "priceReduced": 32,
-      "img": "ticket-18.png"
+      "img": "https://images.unsplash.com/photo-1667030448398-1d7efc1952c2?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2070"
     },
     {
       "id": 19,
@@ -159,7 +159,7 @@
       "shortDescription": "Kids-only play area access.",
       "detailledDescription": "Includes snow playground, mini-lifts, and beginner training slopes for children.",
       "price": 12,
-      "img": "ticket-19.png"
+      "img": "https://images.unsplash.com/photo-1708237768222-8966dcc533e7?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=927"
     },
     {
       "id": 20,
@@ -167,7 +167,7 @@
       "shortDescription": "Ticket for snowbike trails.",
       "detailledDescription": "Access to designated snowbike areas. Requires safety training verification.",
       "price": 22,
-      "img": "ticket-20.png"
+      "img": "https://images.unsplash.com/photo-1714634562360-aefa771e6c92?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=986"
     },
     {
       "id": 21,
@@ -175,7 +175,7 @@
       "shortDescription": "Off-piste skiing permit.",
       "detailledDescription": "Required for freeride zones. Includes avalanche safety briefing at check-in.",
       "price": 15,
-      "img": "ticket-21.png"
+      "img": "https://images.unsplash.com/photo-1570641963303-92ce4845ed4c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=987"
     },
     {
       "id": 22,
@@ -183,7 +183,7 @@
       "shortDescription": "Access to winter walking trails.",
       "detailledDescription": "Gives access to all marked winter hiking routes in the resort area.",
       "price": 7,
-      "img": "ticket-22.png"
+      "img": "https://images.unsplash.com/photo-1531436040007-7216019112d7?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=987"
     },
     {
       "id": 23,
@@ -192,7 +192,7 @@
       "detailledDescription": "Includes hot drinks, lounge seating, and charging stations at the summit lounge.",
       "price": 19,
       "priceReduced": 15,
-      "img": "ticket-23.png"
+      "img": "https://images.unsplash.com/photo-1667030448398-1d7efc1952c2?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2070"
     },
     {
       "id": 24,
@@ -200,7 +200,7 @@
       "shortDescription": "Locker for skis/snowboards.",
       "detailledDescription": "Secure storage for your equipment for one day. Heated lockers available.",
       "price": 6,
-      "img": "ticket-24.png"
+      "img": "https://images.unsplash.com/photo-1667030448398-1d7efc1952c2?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2070"
     },
     {
       "id": 25,
@@ -208,7 +208,7 @@
       "shortDescription": "Access to snow tubing run.",
       "detailledDescription": "Unlimited tubing rides for the day. Great for families and groups.",
       "price": 17,
-      "img": "ticket-25.png"
+      "img": "https://images.unsplash.com/photo-1586356415056-bd7a5c2bbef7?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2532"
     },
     {
       "id": 26,
@@ -217,7 +217,7 @@
       "detailledDescription": "Includes boots, skis/snowboard, poles, and helmet rental for one full day.",
       "price": 45,
       "isFeatured": true,
-      "img": "ticket-26.png"
+      "img": "https://images.unsplash.com/photo-1667030448398-1d7efc1952c2?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2070"
     },
     {
       "id": 27,
@@ -225,7 +225,7 @@
       "shortDescription": "2-hour lesson with instructor.",
       "detailledDescription": "Improve your skiing or snowboarding skills with a certified instructor.",
       "price": 79,
-      "img": "ticket-27.png"
+      "img": "https://images.unsplash.com/photo-1642970047506-cfb9820f9457?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2070"
     },
     {
       "id": 28,
@@ -233,7 +233,7 @@
       "shortDescription": "Access to partner ski resorts.",
       "detailledDescription": "Ski across multiple resorts with this combined access ticket, valid for the whole week.",
       "price": 199,
-      "img": "ticket-28.png"
+      "img": "https://images.unsplash.com/photo-1570641963303-92ce4845ed4c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=987"
     },
     {
       "id": 29,
@@ -242,7 +242,7 @@
       "detailledDescription": "Join a thrilling guided tour through snowy terrains. Safety training included.",
       "price": 89,
       "priceReduced": 79,
-      "img": "ticket-29.png"
+      "img": "https://images.unsplash.com/photo-1586356415056-bd7a5c2bbef7?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2532"
     },
     {
       "id": 30,
@@ -250,7 +250,7 @@
       "shortDescription": "Lift ticket for sunset viewpoint.",
       "detailledDescription": "Catch the most beautiful mountain sunset from our dedicated vista plateau.",
       "price": 14,
-      "img": "ticket-30.png"
+      "img": "https://images.unsplash.com/photo-1531436040007-7216019112d7?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=987"
     }
   ]
 }
