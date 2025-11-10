@@ -53,7 +53,7 @@ Example ticket object:
   "price": 59,
   "priceReduced": 49,
   "isFeatured": true,
-  "img": "ticket-1.png"
+  "img": "unsplash-id"
 }
 ```
 
