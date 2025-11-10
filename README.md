@@ -10,23 +10,23 @@ This repository hosts a small fake JSON API (powered by my-json-server) that ser
 
 - Single ticket (by id):
 
-  https://my-json-server.typicode.com/j-handlechner/ticket-fake-api/tickets/```<id>```
+  https://my-json-server.typicode.com/j-handlechner/ticket-fake-api/tickets/`<id>`
 
 ### Querying and pagination examples
 
 - Filter by field (example: price equals 10):
 
-  https://my-json-server.typicode.com/j-handlechner/ticket-fake-api/tickets```?price=10```
+  https://my-json-server.typicode.com/j-handlechner/ticket-fake-api/tickets`?price=10`
 
 - Pagination / limits:
 
-  https://my-json-server.typicode.com/j-handlechner/ticket-fake-api/tickets```?_page=2&_limit=10```
+  https://my-json-server.typicode.com/j-handlechner/ticket-fake-api/tickets`?_page=2&_limit=10`
 
 ### Images
 
-The ```img```attribute in the json refers to the __unsplash ID__ of the images. To build the urls, use this schema:
+The `img`attribute in the json refers to the __unsplash ID__ of the images. To build the urls, use this schema:
 
-- https://images.unsplash.com/photo-```<image id from json api>```
+- https://images.unsplash.com/photo-`<image id from json api>`
 - for example: https://images.unsplash.com/photo-1531436040007-7216019112d7
 
 ### JSON structure (db.json)
